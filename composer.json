@@ -1,0 +1,6 @@
+{
+	"name": "plibv4/command",
+	"autoload": {
+        "classmap": ["src/"]
+    }
+}
